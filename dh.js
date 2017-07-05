@@ -239,4 +239,4 @@ var index = 0;
 		};
 		
 		//向控制台输出
-		window.console.log("如果你在看，希望能与你续缘\n E-mail：447642265@qq.com");
+		//window.console.log("如果你在看，希望能与你续缘\n E-mail：447642265@qq.com");
